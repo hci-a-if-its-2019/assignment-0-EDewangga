@@ -10,9 +10,9 @@ IMK A
 
 1. [Arngreen](http://ie-games.iefairits.com)
   * [Review Video](https://youtu.be/fY1lgc5YwlY)
-1. Windows store
-1. Motorcycle
----
+2.  Windows store
+3. Motorcycle
+--s-
 
 
 
@@ -50,12 +50,16 @@ Yeaah its delete button , im already search it for a while then end up by search
 Lets see :tw-1f60f:
 
 At frist that motor cycle look good and look cool for  motorcycle
+
 <br> ![Motorcycle](asset/Motorcycle.jpg) <br>
+
 But when you see for the secure its too bad :tw-1f631:
 Look at this
+
 <br> ![Motorcycle](asset/Motorcycle.gif) <br>
+
 THERE IS NO KEY!! how if someone knows this motorcycle is keyless . some bad people will try to steal this
 
 **solution**
 1. add some key
-"# assignment-0-EDewangga" 
+"# assignment-0-EDewangga"
