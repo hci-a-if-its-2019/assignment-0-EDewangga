@@ -48,7 +48,7 @@ Yeaah its delete button :sob: , im already search it for a while then end up by 
 
 Lets see :tw-1f60f:
 
-At frist that motor cycle look good and look cool for  motorcycle
+At frist that motor cycle look good and cool for  motorcycle
 
 <br> ![Windows](asset/motorcycle.jpg) <br>
 
